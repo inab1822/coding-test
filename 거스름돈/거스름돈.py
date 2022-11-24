@@ -15,4 +15,4 @@ def change(N):
 # coin_type에 있는 각 coin들을 모두 대입해서 count를 올리고 마지막으로 count를 출력한다.
   return print(count)
 
-change(1560)
+change(1540)
